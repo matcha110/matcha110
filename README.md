@@ -2,12 +2,6 @@
 
 [![](https://komarev.com/ghpvc/?username=matcha110&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
-## Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,html,css,jest,react,nextjs,vercel,netlify,figma,vscode" />
-
-[More](https://www.notion.so/matcha110/b4e30e56f0684dc7833c2e03f85ea529)
-
-
 ## History
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=vue)
