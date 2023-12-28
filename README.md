@@ -1,8 +1,10 @@
-### Hi there 👋
+### Profile
 
 [![](https://komarev.com/ghpvc/?username=matcha110&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## History
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matcha110&show_icons=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=vue)
 
