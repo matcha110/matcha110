@@ -4,7 +4,8 @@
 
 ## History
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matcha110&show_icons=true)
+## Skill
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=Rust, python, java, Kotlin, ts, html, css, react, nodejs, vscode" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=vue)
 
