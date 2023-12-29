@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=matcha110&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=rust,python,java,kotlin,html,css,react,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,java,kotlin,rust,html,css,react,vscode" />
 
 ## History
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=vue)
