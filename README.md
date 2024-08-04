@@ -1,9 +1,13 @@
-### Profile
+## Profile
 
 [![](https://komarev.com/ghpvc/?username=matcha110&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,php,rust,golang,js,laravel,vue" />
+### Language
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,php,rust,golang,js,ts" />
+
+### FlameWork
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel,vue,react" />
 
 ## History
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=vue)
