@@ -10,6 +10,23 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel,vue,react" />
 
 ## History
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=vue)
+<a href="https://github.com/matcha110/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcha110&theme=calm"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matcha110&layout=donut)](https://github.com/matcha110/github-readme-stats)
+<a href="https://github.com/matcha110/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matcha110&theme=calm" />
+</a>
+
+<a href="https://github.com/matcha110/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matcha110&theme=calm" />
+</a>
+
+<a href="https://github.com/matcha110/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matcha110&theme=calm" />
+</a>
+
+<a href="https://github.com/matcha110/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matcha110&theme=calm&utcOffset=8" />
+</a>
+
