@@ -7,7 +7,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=php,python,rust,golang,js,ts" />
 
 ### FlameWork
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel,vue,react,next" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel,vue,react,next,django" />
 
 ## History
 <a href="https://github.com/matcha110/github-readme-stats">
