@@ -26,7 +26,3 @@
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matcha110&theme=cobalt" />
 </a>
 
-<a href="https://github.com/matcha110/github-readme-stats">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matcha110&theme=cobalt&utcOffset=8" />
-</a>
-
