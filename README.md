@@ -4,7 +4,7 @@
 
 ## Skill
 ### Language
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=php,rust,python,golang,js,ts" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=php,rust,python,js,ts" />
 
 ### FlameWork
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel,vue,react,next,django,fastapi" />
